@@ -1,0 +1,1 @@
+Frontend: vite react. Set VITE_API in .env to backend URL.
